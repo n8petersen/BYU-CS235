@@ -1,5 +1,6 @@
 # BYU CS 235
-BYU CS 235 Data Structure Labs
+**BYU CS 235 Data Structure Labs:**
+
 Throughout this semester we learned about different C++ Data Structures, how they work, and programmed these data structures ourselves from scratch, including Stacks, Queues, Vectors, Linked Lists, Sets, Maps, Trees, etc. We also learned about some sorting algorithms, and recursion.
 
 ### **Lab 1: Grades**
