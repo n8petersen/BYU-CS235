@@ -1,0 +1,31 @@
+INT
+add 1
+add 2
+add 3
+print
+add 4
+add 5
+add 6
+add 10
+print
+add 8
+add 7
+add 9
+print
+remove 11
+remove 10
+remove 9
+remove 6
+print
+remove 8
+remove 7
+print
+remove 5
+remove 4
+remove 3
+remove 2
+print
+remove 1
+print
+clear
+print
