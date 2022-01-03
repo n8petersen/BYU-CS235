@@ -217,7 +217,7 @@ void course_grades(ifstream& in, ofstream& out, vector<CourseGrade> grades, vect
 
 
 void student_schedules(ifstream& in, ofstream& out, vector<SNAP> snaps, vector<CourseDayHour> daysHours, vector<CourseRoom> rooms, vector<CourseGrade> grades) // Prints all students' schedules for part 4
-{//TODO Finish this function
+{
 	out << endl << "Student Schedules:" << endl;
 	
 	for (size_t i = 0; i < snaps.size(); ++i)
