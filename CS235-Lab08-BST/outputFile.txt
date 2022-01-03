@@ -1,0 +1,80 @@
+INT OK
+tree empty
+add 10 OK
+add 9 OK
+add 8 OK
+add 7 OK
+add 6 OK
+add 5 OK
+add 4 OK
+add 3 OK
+add 2 OK
+add 1 OK
+add 0 OK
+size 11
+print 
+  1: 10
+  2: 9 _
+  3: 8 _
+  4: 7 _
+  5: 6 _
+  6: 5 _
+  7: 4 _
+  8: 3 _
+  9: 2 _
+  10: 1 _
+  11: 0 _
+remove 0 OK
+find 8 found
+find 0 not found
+print 
+  1: 10
+  2: 9 _
+  3: 8 _
+  4: 7 _
+  5: 6 _
+  6: 5 _
+  7: 4 _
+  8: 3 _
+  9: 2 _
+  10: 1 _
+tree  1 2 3 4 5 6 7 8 9 10
+clear OK
+tree empty
+add 5 OK
+add 2 OK
+add 3 OK
+add 4 OK
+add 1 OK
+add 7 OK
+add 6 OK
+add 8 OK
+add 10 OK
+add 7 Error
+add 9 OK
+add 0 OK
+print 
+  1: 5
+  2: 2 7
+  3: 1 3 6 8
+  4: 0 _ _ 4 _ 10
+  5: 9 _
+remove 0 OK
+print 
+  1: 5
+  2: 2 7
+  3: 1 3 6 8
+  4: _ 4 _ 10
+  5: 9 _
+tree  1 2 3 4 5 6 7 8 9 10
+STRING OK
+tree empty
+add not OK
+add with OK
+add dreams OK
+add Die OK
+size 4
+find not found
+find Die found
+find dog not found
+tree  Die dreams not with

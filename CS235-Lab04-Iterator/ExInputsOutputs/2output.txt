@@ -1,0 +1,26 @@
+
+Insert time. the is Now
+PrintList Now is the time.
+InsertAfter really is OK
+PrintList Now is really the time.
+InsertAfter really Now OK
+PrintList Now really is really the time.
+InsertAfter really pig Not Found
+PrintList Now really is really the time.
+InsertAfter really! time. OK
+PrintList Now really is really the time. really!
+InsertBefore really is OK
+PrintList Now really really is really the time. really!
+InsertBefore really Now OK
+PrintList really Now really really is really the time. really!
+InsertBefore really pig Not Found
+Iterate
+ [really]
+ [Now]
+ [really]
+ [really]
+ [is]
+ [really]
+ [the]
+ [time.]
+ [really!]

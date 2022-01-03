@@ -1,0 +1,1765 @@
+Pokemon: bulbasaur grass
+Pokemon: ivysaur grass
+Pokemon: venusaur grass
+Pokemon: charmeleon fire
+Pokemon: charizard fire
+Pokemon: squirtle water
+Pokemon: wartortle water
+Pokemon: blastoise water
+Pokemon: caterpie bug
+Pokemon: metapod bug
+Pokemon: butterfree bug
+Pokemon: weedle bug
+Pokemon: kakuna bug
+Pokemon: beedrill bug
+Pokemon: pidgey normal
+Pokemon: pidgeotto normal
+Pokemon: pidgeot normal
+Pokemon: rattata normal
+Pokemon: raticate normal
+Pokemon: spearow normal
+Pokemon: fearow normal
+Pokemon: ekans poison
+Pokemon: arbok poison
+Pokemon: pikachu electric
+Pokemon: raichu electric
+Pokemon: sandshrew ground
+Pokemon: sandslash ground
+Pokemon: nidoran poison
+Pokemon: nidoran poison
+Pokemon: nidorina poison
+Pokemon: nidoqueen poison
+Pokemon: nidorino poison
+Pokemon: nidoking poison
+Pokemon: clefairy fairy
+Pokemon: clefable fairy
+Pokemon: vulpix fire
+Pokemon: ninetales fire
+Pokemon: jigglypuff normal
+Pokemon: wigglytuff normal
+Pokemon: zubat poison
+Pokemon: golbat poison
+Pokemon: oddish grass
+Pokemon: gloom grass
+Pokemon: vileplume grass
+Pokemon: paras bug
+Pokemon: parasect bug
+Pokemon: venonat bug
+Pokemon: venomoth bug
+Pokemon: diglett ground
+Pokemon: dugtrio ground
+Pokemon: meowth normal
+Pokemon: persian normal
+Pokemon: psyduck water
+Pokemon: golduck water
+Pokemon: mankey fighting
+Pokemon: primeape fighting
+Pokemon: growlithe fire
+Pokemon: arcanine fire
+Pokemon: poliwag water
+Pokemon: poliwhirl water
+Pokemon: poliwrath water
+Pokemon: abra psychic
+Pokemon: kadabra psychic
+Pokemon: alakazam psychic
+Pokemon: machop fighting
+Pokemon: machoke fighting
+Pokemon: machamp fighting
+Pokemon: weepinbell grass
+Pokemon: bellsprout grass
+Pokemon: victreebel fighting
+Pokemon: tentacool water
+Pokemon: tentacruel water
+Pokemon: geodude rock
+Pokemon: graveler rock
+Pokemon: golem rock
+Pokemon: ponyta fire
+Pokemon: rapidash fire
+Pokemon: slowpoke water
+Pokemon: slowbro fire
+Pokemon: magnemite electric
+Pokemon: magneton electric
+Pokemon: farfetch'd normal
+Pokemon: doduo normal
+Pokemon: dodrio normal
+Pokemon: seel water
+Pokemon: dewgong ice
+Pokemon: grimer poison
+Pokemon: muk poison
+Pokemon: shellder water
+Pokemon: cloyster ice
+Pokemon: gastly ghost
+Pokemon: haunter ghost
+Pokemon: gengar ghost
+Pokemon: onix rock
+Pokemon: drowzee psychic
+Pokemon: hypno psychic
+Pokemon: krabby water
+Pokemon: kingler water
+Pokemon: voltorb electric
+Pokemon: bayleaf grass
+Pokemon: typhlosion fire
+Pokemon: totodile water
+Pokemon: natu psychic
+Pokemon: steelix steel
+Pokemon: scizor bug
+Pokemon: tyranitar rock
+Pokemon: ho-oh flying
+Pokemon: umbreon dark
+Pokemon: hitmontop fighting
+Pokemon: misdreavus ghost
+Pokemon: crobat poison
+Pokemon: natu psychic
+Pokemon: tyranitar rock
+Pokemon: charmander fire
+Pokemon: bayleaf grass
+Pokemon: typhlosion fire
+Pokemon: totodile water
+Pokemon: natu psychic
+Pokemon: steelix steel
+Pokemon: scizor bug
+Pokemon: tyranitar rock
+Pokemon: ho-oh flying
+Pokemon: umbreon dark
+Pokemon: hitmontop fighting
+Pokemon: misdreavus ghost
+Pokemon: crobat poison
+Move: absorb grass
+Move: accelerock rock
+Move: acid poison
+Move: acid_armor poison
+Move: acid_downpour poison
+Move: acid_spray poison
+Move: acrobatics flying
+Move: acupressure normal
+Move: aerial_ace flying
+Move: aeroblast flying
+Move: after_you normal
+Move: agility psychic
+Move: air_cutter flying
+Move: air_slash flying
+Move: all-out_pummeling fighting
+Move: ally_switch psychic
+Move: amnesia psychic
+Move: anchor_shot steel
+Move: ancient_power rock
+Move: aqua_jet water
+Move: aqua_ring water
+Move: aqua_tail water
+Move: arm_thrust fighting
+Move: aromatherapy grass
+Move: aromatic_mist fairy
+Move: assist normal
+Move: assurance dark
+Move: astonish ghost
+Move: attack_order bug
+Move: attract normal
+Move: aura_sphere fighting
+Move: aurora_beam ice
+Move: aurora_veil ice
+Move: autotomize steel
+Move: avalanche ice
+Move: baby-doll_eyes fairy
+Move: baddy_bad dark
+Move: baneful_bunker poison
+Move: barrage normal
+Move: barrier psychic
+Move: baton_pass normal
+Move: beak_blast flying
+Move: beat_up dark
+Move: belch poison
+Move: belly_drum normal
+Move: bestow normal
+Move: bide normal
+Move: bind normal
+Move: bite dark
+Move: black_hole_eclipse dark
+Move: blast_burn fire
+Move: blaze_kick fire
+Move: blizzard ice
+Move: block normal
+Move: bloom_doom grass
+Move: blue_flare fire
+Move: body_slam normal
+Move: bolt_strike electric
+Move: bone_club ground
+Move: bone_rush ground
+Move: bonemerang ground
+Move: boomburst normal
+Move: bounce flying
+Move: bouncy_bubble water
+Move: brave_bird flying
+Move: breakneck_blitz normal
+Move: brick_break fighting
+Move: brine water
+Move: brutal_swing dark
+Move: bubble water
+Move: bubble_beam water
+Move: bug_bite bug
+Move: bug_buzz bug
+Move: bulk_up fighting
+Move: bulldoze ground
+Move: bullet_punch steel
+Move: bullet_seed grass
+Move: burn_up fire
+Move: buzzy_buzz electric
+Move: calm_mind psychic
+Move: camouflage normal
+Move: captivate normal
+Move: catastropika electric
+Move: celebrate normal
+Move: charge electric
+Move: charge_beam electric
+Move: charm fairy
+Move: chatter flying
+Move: chip_away normal
+Move: circle_throw fighting
+Move: clamp water
+Move: clanging_scales dragon
+Move: clangorous_soulblaze dragon
+Move: clear_smog poison
+Move: close_combat fighting
+Move: coil poison
+Move: comet_punch normal
+Move: confide normal
+Move: confuse_ray ghost
+Move: confusion psychic
+Move: constrict normal
+Move: continental_crush rock
+Move: conversion normal
+Move: conversion_2 normal
+Move: copycat normal
+Move: core_enforcer dragon
+Move: corkscrew_crash steel
+Move: cosmic_power psychic
+Move: cotton_guard grass
+Move: cotton_spore grass
+Move: counter fighting
+Move: covet normal
+Move: crabhammer water
+Move: crafty_shield fairy
+Move: cross_chop fighting
+Move: cross_poison poison
+Move: crunch dark
+Move: crush_claw normal
+Move: crush_grip normal
+Move: curse ghost
+Move: cut normal
+Move: dark_pulse dark
+Move: dark_void dark
+Move: darkest_lariat dark
+Move: dazzling_gleam fairy
+Move: defend_order bug
+Move: defense_curl normal
+Move: defog flying
+Move: destiny_bond ghost
+Move: detect fighting
+Move: devastating_drake dragon
+Move: diamond_storm rock
+Move: dig ground
+Move: disable normal
+Move: disarming_voice fairy
+Move: discharge electric
+Move: dive water
+Move: dizzy_punch normal
+Move: doom_desire steel
+Move: double_hit normal
+Move: double_iron_bash steel
+Move: double_kick fighting
+Move: double_slap normal
+Move: double_team normal
+Move: double-edge normal
+Move: draco_meteor dragon
+Move: dragon_ascent flying
+Move: dragon_breath dragon
+Move: dragon_claw dragon
+Move: dragon_dance dragon
+Move: dragon_hammer dragon
+Move: dragon_pulse dragon
+Move: dragon_rage dragon
+Move: dragon_rush dragon
+Move: dragon_tail dragon
+Move: drain_punch fighting
+Move: draining_kiss fairy
+Move: dream_eater psychic
+Move: drill_peck flying
+Move: drill_run ground
+Move: dual_chop dragon
+Move: dynamic_punch fighting
+Move: earth_power ground
+Move: earthquake ground
+Move: echoed_voice normal
+Move: eerie_impulse electric
+Move: egg_bomb normal
+Move: electric_terrain electric
+Move: electrify electric
+Move: electro_ball electric
+Move: electroweb electric
+Move: embargo dark
+Move: ember fire
+Move: encore normal
+Move: endeavor normal
+Move: endure normal
+Move: energy_ball grass
+Move: entrainment normal
+Move: eruption fire
+Move: explosion normal
+Move: extrasensory psychic
+Move: extreme_evoboost normal
+Move: extreme_speed normal
+Move: facade normal
+Move: fairy_lock fairy
+Move: fairy_wind fairy
+Move: fake_out normal
+Move: fake_tears dark
+Move: false_swipe normal
+Move: feather_dance flying
+Move: feint normal
+Move: feint_attack dark
+Move: fell_stinger bug
+Move: fiery_dance fire
+Move: final_gambit fighting
+Move: fire_blast fire
+Move: fire_fang fire
+Move: fire_lash fire
+Move: fire_pledge fire
+Move: fire_punch fire
+Move: fire_spin fire
+Move: first_impression bug
+Move: fissure ground
+Move: flail normal
+Move: flame_burst fire
+Move: flame_charge fire
+Move: flame_wheel fire
+Move: flamethrower fire
+Move: flare_blitz fire
+Move: flash normal
+Move: flash_cannon steel
+Move: flatter dark
+Move: fleur_cannon fairy
+Move: fling dark
+Move: floaty_fall flying
+Move: floral_healing fairy
+Move: flower_shield fairy
+Move: fly flying
+Move: flying_press fighting
+Move: focus_blast fighting
+Move: focus_energy normal
+Move: focus_punch fighting
+Move: follow_me normal
+Move: force_palm fighting
+Move: foresight normal
+Move: forest's_curse grass
+Move: foul_play dark
+Move: freeze_shock ice
+Move: freeze-dry ice
+Move: freezy_frost ice
+Move: frenzy_plant grass
+Move: frost_breath ice
+Move: frustration normal
+Move: fury_attack normal
+Move: fury_cutter bug
+Move: fury_swipes normal
+Move: fusion_bolt electric
+Move: fusion_flare fire
+Move: future_sight psychic
+Move: gastro_acid poison
+Move: gear_grind steel
+Move: gear_up steel
+Move: genesis_supernova psychic
+Move: geomancy fairy
+Move: giga_drain grass
+Move: giga_impact normal
+Move: gigavolt_havoc electric
+Move: glaciate ice
+Move: glare normal
+Move: glitzy_glow psychic
+Move: grass_knot grass
+Move: grass_pledge grass
+Move: grass_whistle grass
+Move: grassy_terrain grass
+Move: gravity psychic
+Move: growl normal
+Move: growth normal
+Move: grudge ghost
+Move: guard_split psychic
+Move: guard_swap psychic
+Move: guardian_of_alola fairy
+Move: guillotine normal
+Move: gunk_shot poison
+Move: gust flying
+Move: gyro_ball steel
+Move: hail ice
+Move: hammer_arm fighting
+Move: happy_hour normal
+Move: harden normal
+Move: haze ice
+Move: head_charge normal
+Move: head_smash rock
+Move: headbutt normal
+Move: heal_bell normal
+Move: heal_block psychic
+Move: heal_order bug
+Move: heal_pulse psychic
+Move: healing_wish psychic
+Move: heart_stamp psychic
+Move: heart_swap psychic
+Move: heat_crash fire
+Move: heat_wave fire
+Move: heavy_slam steel
+Move: helping_hand normal
+Move: hex ghost
+Move: hidden_power normal
+Move: high_horsepower ground
+Move: high_jump_kick fighting
+Move: hold_back normal
+Move: hold_hands normal
+Move: hone_claws dark
+Move: horn_attack normal
+Move: horn_drill normal
+Move: horn_leech grass
+Move: howl normal
+Move: hurricane flying
+Move: hydro_cannon water
+Move: hydro_pump water
+Move: hydro_vortex water
+Move: hyper_beam normal
+Move: hyper_fang normal
+Move: hyper_voice normal
+Move: hyperspace_fury dark
+Move: hyperspace_hole psychic
+Move: hypnosis psychic
+Move: ice_ball ice
+Move: ice_beam ice
+Move: ice_burn ice
+Move: ice_fang ice
+Move: ice_hammer ice
+Move: ice_punch ice
+Move: ice_shard ice
+Move: icicle_crash ice
+Move: icicle_spear ice
+Move: icy_wind ice
+Move: imprison psychic
+Move: incinerate fire
+Move: inferno fire
+Move: inferno_overdrive fire
+Move: infestation bug
+Move: ingrain grass
+Move: instruct psychic
+Move: ion_deluge electric
+Move: iron_defense steel
+Move: iron_head steel
+Move: iron_tail steel
+Move: judgment normal
+Move: jump_kick fighting
+Move: karate_chop fighting
+Move: kinesis psychic
+Move: king's_shield steel
+Move: knock_off dark
+Move: land's_wrath ground
+Move: laser_focus normal
+Move: last_resort normal
+Move: lava_plume fire
+Move: leaf_blade grass
+Move: leaf_storm grass
+Move: leaf_tornado grass
+Move: leafage grass
+Move: leech_life bug
+Move: leech_seed grass
+Move: leer normal
+Move: let's_snuggle_forever fairy
+Move: lick ghost
+Move: light_of_ruin fairy
+Move: light_screen psychic
+Move: light_that_burns_the_sky psychic
+Move: liquidation water
+Move: lock-on normal
+Move: lovely_kiss normal
+Move: low_kick fighting
+Move: low_sweep fighting
+Move: lucky_chant normal
+Move: lunar_dance psychic
+Move: lunge bug
+Move: luster_purge psychic
+Move: mach_punch fighting
+Move: magic_coat psychic
+Move: magic_room psychic
+Move: magical_leaf grass
+Move: magma_storm fire
+Move: magnet_bomb steel
+Move: magnet_rise electric
+Move: magnetic_flux electric
+Move: magnitude ground
+Move: malicious_moonsault dark
+Move: mat_block fighting
+Move: me_first normal
+Move: mean_look normal
+Move: meditate psychic
+Move: mega_drain grass
+Move: mega_kick normal
+Move: mega_punch normal
+Move: megahorn bug
+Move: memento dark
+Move: menacing_moonraze_maelstrom ghost
+Move: metal_burst steel
+Move: metal_claw steel
+Move: metal_sound steel
+Move: meteor_mash steel
+Move: metronome normal
+Move: milk_drink normal
+Move: mimic normal
+Move: mind_blown fire
+Move: mind_reader normal
+Move: minimize normal
+Move: miracle_eye psychic
+Move: mirror_coat psychic
+Move: mirror_move flying
+Move: mirror_shot steel
+Move: mist ice
+Move: mist_ball psychic
+Move: misty_terrain fairy
+Move: moonblast fairy
+Move: moongeist_beam ghost
+Move: moonlight fairy
+Move: morning_sun normal
+Move: mud_bomb ground
+Move: mud_shot ground
+Move: mud_sport ground
+Move: muddy_water water
+Move: mud-slap ground
+Move: multi-attack normal
+Move: mystical_fire fire
+Move: nasty_plot dark
+Move: natural_gift normal
+Move: nature_power normal
+Move: nature's_madness fairy
+Move: needle_arm grass
+Move: never-ending_nightmare ghost
+Move: night_daze dark
+Move: night_shade ghost
+Move: night_slash dark
+Move: nightmare ghost
+Move: noble_roar normal
+Move: nuzzle electric
+Move: oblivion_wing flying
+Move: oceanic_operetta water
+Move: octazooka water
+Move: odor_sleuth normal
+Move: ominous_wind ghost
+Move: origin_pulse water
+Move: outrage dragon
+Move: overheat fire
+Move: pain_split normal
+Move: parabolic_charge electric
+Move: parting_shot dark
+Move: pay_day normal
+Move: payback dark
+Move: peck flying
+Move: perish_song normal
+Move: petal_blizzard grass
+Move: petal_dance grass
+Move: phantom_force ghost
+Move: photon_geyser psychic
+Move: pika_papow electric
+Move: pin_missile bug
+Move: plasma_fists electric
+Move: play_nice normal
+Move: play_rough fairy
+Move: pluck flying
+Move: poison_fang poison
+Move: poison_gas poison
+Move: poison_jab poison
+Move: poison_powder poison
+Move: poison_sting poison
+Move: poison_tail poison
+Move: pollen_puff bug
+Move: pound normal
+Move: powder bug
+Move: powder_snow ice
+Move: power_gem rock
+Move: power_split psychic
+Move: power_swap psychic
+Move: power_trick psychic
+Move: power_trip dark
+Move: power_whip grass
+Move: power-up_punch fighting
+Move: precipice_blades ground
+Move: present normal
+Move: prismatic_laser psychic
+Move: protect normal
+Move: psybeam psychic
+Move: psych_up normal
+Move: psychic psychic
+Move: psychic_fangs psychic
+Move: psychic_terrain psychic
+Move: psycho_boost psychic
+Move: psycho_cut psychic
+Move: psycho_shift psychic
+Move: psyshock psychic
+Move: psystrike psychic
+Move: psywave psychic
+Move: pulverizing_pancake normal
+Move: punishment dark
+Move: purify poison
+Move: pursuit dark
+Move: quash dark
+Move: quick_attack normal
+Move: quick_guard fighting
+Move: quiver_dance bug
+Move: rage normal
+Move: rage_powder bug
+Move: rain_dance water
+Move: rapid_spin normal
+Move: razor_leaf grass
+Move: razor_shell water
+Move: razor_wind normal
+Move: recover normal
+Move: recycle normal
+Move: reflect psychic
+Move: reflect_type normal
+Move: refresh normal
+Move: relic_song normal
+Move: rest psychic
+Move: retaliate normal
+Move: return normal
+Move: revelation_dance normal
+Move: revenge fighting
+Move: reversal fighting
+Move: roar normal
+Move: roar_of_time dragon
+Move: rock_blast rock
+Move: rock_climb normal
+Move: rock_polish rock
+Move: rock_slide rock
+Move: rock_smash fighting
+Move: rock_throw rock
+Move: rock_tomb rock
+Move: rock_wrecker rock
+Move: role_play psychic
+Move: rolling_kick fighting
+Move: rollout rock
+Move: roost flying
+Move: rototiller ground
+Move: round normal
+Move: sacred_fire fire
+Move: sacred_sword fighting
+Move: safeguard normal
+Move: sand_attack ground
+Move: sand_tomb ground
+Move: sandstorm rock
+Move: sappy_seed grass
+Move: savage_spin-out bug
+Move: scald water
+Move: scary_face normal
+Move: scratch normal
+Move: screech normal
+Move: searing_shot fire
+Move: searing_sunraze_smash steel
+Move: secret_power normal
+Move: secret_sword fighting
+Move: seed_bomb grass
+Move: seed_flare grass
+Move: seismic_toss fighting
+Move: self-destruct normal
+Move: shadow_ball ghost
+Move: shadow_bone ghost
+Move: shadow_claw ghost
+Move: shadow_force ghost
+Move: shadow_punch ghost
+Move: shadow_sneak ghost
+Move: sharpen normal
+Move: shattered_psyche psychic
+Move: sheer_cold ice
+Move: shell_smash normal
+Move: shell_trap fire
+Move: shift_gear steel
+Move: shock_wave electric
+Move: shore_up ground
+Move: signal_beam bug
+Move: silver_wind bug
+Move: simple_beam normal
+Move: sing normal
+Move: sinister_arrow_raid ghost
+Move: sizzly_slide fire
+Move: sketch normal
+Move: skill_swap psychic
+Move: skull_bash normal
+Move: sky_attack flying
+Move: sky_drop flying
+Move: sky_uppercut fighting
+Move: slack_off normal
+Move: slam normal
+Move: slash normal
+Move: sleep_powder grass
+Move: sleep_talk normal
+Move: sludge poison
+Move: sludge_bomb poison
+Move: sludge_wave poison
+Move: smack_down rock
+Move: smart_strike steel
+Move: smelling_salts normal
+Move: smog poison
+Move: smokescreen normal
+Move: snarl dark
+Move: snatch dark
+Move: snore normal
+Move: soak water
+Move: soft-boiled normal
+Move: solar_beam grass
+Move: solar_blade grass
+Move: sonic_boom normal
+Move: spacial_rend dragon
+Move: spark electric
+Move: sparkling_aria water
+Move: sparkly_swirl fairy
+Move: spectral_thief ghost
+Move: speed_swap psychic
+Move: spider_web bug
+Move: spike_cannon normal
+Move: spikes ground
+Move: spiky_shield grass
+Move: spirit_shackle ghost
+Move: spit_up normal
+Move: spite ghost
+Move: splash normal
+Move: splintered_stormshards rock
+Move: splishy_splash water
+Move: spore grass
+Move: spotlight normal
+Move: stealth_rock rock
+Move: steam_eruption water
+Move: steamroller bug
+Move: steel_wing steel
+Move: sticky_web bug
+Move: stockpile normal
+Move: stoked_sparksurfer electric
+Move: stomp normal
+Move: stomping_tantrum ground
+Move: stone_edge rock
+Move: stored_power psychic
+Move: storm_throw fighting
+Move: strength normal
+Move: strength_sap grass
+Move: string_shot bug
+Move: struggle normal
+Move: struggle_bug bug
+Move: stun_spore grass
+Move: submission fighting
+Move: substitute normal
+Move: subzero_slammer ice
+Move: sucker_punch dark
+Move: sunny_day fire
+Move: sunsteel_strike steel
+Move: super_fang normal
+Move: superpower fighting
+Move: supersonic normal
+Move: supersonic_skystrike flying
+Move: surf water
+Move: swagger normal
+Move: swallow normal
+Move: sweet_kiss fairy
+Move: sweet_scent normal
+Move: swift normal
+Move: switcheroo dark
+Move: swords_dance normal
+Move: synchronoise psychic
+Move: synthesis grass
+Move: tackle normal
+Move: tail_glow bug
+Move: tail_slap normal
+Move: tail_whip normal
+Move: tailwind flying
+Move: take_down normal
+Move: taunt dark
+Move: tearful_look normal
+Move: techno_blast normal
+Move: tectonic_rage ground
+Move: teeter_dance normal
+Move: telekinesis psychic
+Move: teleport psychic
+Move: thief dark
+Move: thousand_arrows ground
+Move: thousand_waves ground
+Move: thrash normal
+Move: throat_chop dark
+Move: thunder electric
+Move: thunder_fang electric
+Move: thunder_punch electric
+Move: thunder_shock electric
+Move: thunder_wave electric
+Move: thunderbolt electric
+Move: tickle normal
+Move: topsy-turvy dark
+Move: torment dark
+Move: toxic poison
+Move: toxic_spikes poison
+Move: toxic_thread poison
+Move: transform normal
+Move: tri_attack normal
+Move: trick psychic
+Move: trick_room psychic
+Move: trick-or-treat ghost
+Move: triple_kick fighting
+Move: trop_kick grass
+Move: trump_card normal
+Move: twineedle bug
+Move: twinkle_tackle fairy
+Move: twister dragon
+Move: uproar normal
+Move: u-turn bug
+Move: vacuum_wave fighting
+Move: v-create fire
+Move: veevee_volley normal
+Move: venom_drench poison
+Move: venoshock poison
+Move: vice_grip normal
+Move: vine_whip grass
+Move: vital_throw fighting
+Move: volt_switch electric
+Move: volt_tackle electric
+Move: wake-up_slap fighting
+Move: water_gun water
+Move: water_pledge water
+Move: water_pulse water
+Move: water_shuriken water
+Move: water_sport water
+Move: water_spout water
+Move: waterfall water
+Move: weather_ball normal
+Move: whirlpool water
+Move: whirlwind normal
+Move: wide_guard rock
+Move: wild_charge electric
+Move: will-o-wisp fire
+Move: wing_attack flying
+Move: wish normal
+Move: withdraw water
+Move: wonder_room psychic
+Move: wood_hammer grass
+Move: work_up normal
+Move: worry_seed grass
+Move: wrap normal
+Move: wring_out normal
+Move: x-scissor bug
+Move: yawn normal
+Move: zap_cannon electric
+Move: zen_headbutt psychic
+Move: zing_zap electric
+Move: zippy_zap electric
+Effective: grass water ground rock
+Effective: fire grass ice bug steel
+Effective: water fire ground rock
+Effective: psychic fighting poison
+Effective: steel rock
+Effective: bug grass psychic dark
+Effective: rock fire flying bug
+Effective: flying grass fighting bug
+Effective: dark psychic ghost
+Effective: fighting rock dark steel
+Effective: ghost psychic ghost
+Effective: poison grass
+Effective: grass water ground rock
+Effective: fire grass ice bug steel
+Effective: water fire ground rock
+Effective: psychic fighting poison
+Effective: steel rock
+Effective: bug grass psychic dark
+Effective: rock fire flying bug
+Effective: flying grass fighting bug
+Effective: dark psychic ghost
+Effective: fighting rock dark steel
+Effective: ghost psychic ghost
+Effective: poison grass
+Ineffective: grass flying poison bug steel fire grass
+Ineffective: fire rock fire water
+Ineffective: water water grass
+Ineffective: psychic steel psychic dark
+Ineffective: steel steel fire water
+Ineffective: bug fighting flying poison ghost steel fire
+Ineffective: rock fighting steel
+Ineffective: flying rock steel
+Ineffective: dark fighting dark
+Ineffective: fighting flying poison bug psychic
+Ineffective: ghost dark
+Ineffective: poison poison rock ghost steel
+Ineffective: grass flying poison bug steel fire grass
+Ineffective: fire rock fire water
+Ineffective: water water grass
+Ineffective: psychic steel psychic dark
+Ineffective: steel steel fire water
+Ineffective: bug fighting flying poison ghost steel fire
+Ineffective: rock fighting steel
+Ineffective: flying rock steel
+Ineffective: dark: fighting dark
+Ineffective: fighting: flying poison bug psychic
+Ineffective: ghost: dark
+Ineffective: poison: poison rock ghost steel
+
+Pokemon: 111/248
+  [0:hypno->psychic]
+  [4:meowth->normal]
+  [5:clefairy->fairy]
+  [11:parasect->bug]
+  [12:farfetch'd->normal]
+  [13:mankey->fighting]
+  [14:poliwhirl->water]
+  [15:victreebel->fighting]
+  [23:magnemite->electric]
+  [30:kadabra->psychic]
+  [32:gastly->ghost]
+  [33:nidoking->poison]
+  [34:raichu->electric]
+  [35:kakuna->bug]
+  [37:golbat->poison]
+  [38:slowpoke->water]
+  [39:ponyta->fire]
+  [41:shellder->water]
+  [42:kingler->water]
+  [47:psyduck->water]
+  [49:magneton->electric]
+  [50:cloyster->ice]
+  [52:gloom->grass]
+  [54:charmeleon->fire]
+  [56:grimer->poison]
+  [58:venomoth->bug]
+  [59:doduo->normal]
+  [61:jigglypuff->normal]
+  [62:tyranitar->rock]
+  [64:gengar->ghost]
+  [68:butterfree->bug]
+  [69:typhlosion->fire]
+  [73:spearow->normal]
+  [75:tentacruel->water]
+  [76:golem->rock]
+  [82:voltorb->electric]
+  [83:misdreavus->ghost]
+  [88:hitmontop->fighting]
+  [90:steelix->steel]
+  [92:pidgey->normal]
+  [93:persian->normal]
+  [96:natu->psychic]
+  [97:venusaur->grass]
+  [99:machamp->fighting]
+  [102:vulpix->fire]
+  [105:arbok->poison]
+  [107:ninetales->fire]
+  [108:bellsprout->grass]
+  [111:ho-oh->flying]
+  [112:blastoise->water]
+  [113:wigglytuff->normal]
+  [114:vileplume->grass]
+  [115:pidgeot->normal]
+  [116:fearow->normal]
+  [117:weepinbell->grass]
+  [118:alakazam->psychic]
+  [121:venonat->bug]
+  [123:slowbro->fire]
+  [127:bulbasaur->grass]
+  [128:raticate->normal]
+  [129:crobat->poison]
+  [135:primeape->fighting]
+  [140:totodile->water]
+  [141:squirtle->water]
+  [142:golduck->water]
+  [148:graveler->rock]
+  [149:poliwag->water]
+  [152:clefable->fairy]
+  [156:metapod->bug]
+  [157:umbreon->dark]
+  [160:bayleaf->grass]
+  [168:scizor->bug]
+  [173:beedrill->bug]
+  [174:rapidash->fire]
+  [175:ivysaur->grass]
+  [177:growlithe->fire]
+  [178:dugtrio->ground]
+  [181:nidoran->poison]
+  [183:geodude->rock]
+  [186:arcanine->fire]
+  [188:nidoqueen->poison]
+  [191:diglett->ground]
+  [192:dewgong->ice]
+  [193:sandslash->ground]
+  [194:zubat->poison]
+  [199:tentacool->water]
+  [200:muk->poison]
+  [206:machop->fighting]
+  [207:haunter->ghost]
+  [208:machoke->fighting]
+  [209:seel->water]
+  [210:onix->rock]
+  [211:sandshrew->ground]
+  [214:poliwrath->water]
+  [215:krabby->water]
+  [216:nidorina->poison]
+  [220:abra->psychic]
+  [227:paras->bug]
+  [228:drowzee->psychic]
+  [230:weedle->bug]
+  [231:oddish->grass]
+  [233:pikachu->electric]
+  [234:nidorino->poison]
+  [236:charizard->fire]
+  [237:ekans->poison]
+  [241:caterpie->bug]
+  [242:wartortle->water]
+  [243:dodrio->normal]
+  [244:rattata->normal]
+  [245:pidgeotto->normal]
+  [246:charmander->fire]
+
+Moves: 722/992
+  [0:leaf_storm->grass]
+  [1:never-ending_nightmare->ghost]
+  [2:water_spout->water]
+  [4:thunder_shock->electric]
+  [5:twineedle->bug]
+  [6:signal_beam->bug]
+  [7:ion_deluge->electric]
+  [8:aromatic_mist->fairy]
+  [9:horn_leech->grass]
+  [10:land's_wrath->ground]
+  [11:skull_bash->normal]
+  [12:odor_sleuth->normal]
+  [13:role_play->psychic]
+  [14:rock_tomb->rock]
+  [15:rock_slide->rock]
+  [16:hidden_power->normal]
+  [17:oceanic_operetta->water]
+  [18:u-turn->bug]
+  [19:happy_hour->normal]
+  [20:leech_seed->grass]
+  [21:guard_swap->psychic]
+  [22:bubble_beam->water]
+  [23:embargo->dark]
+  [24:bide->normal]
+  [25:heavy_slam->steel]
+  [27:crafty_shield->fairy]
+  [28:fleur_cannon->fairy]
+  [29:helping_hand->normal]
+  [30:heal_bell->normal]
+  [31:savage_spin-out->bug]
+  [32:core_enforcer->dragon]
+  [33:stomp->normal]
+  [34:supersonic_skystrike->flying]
+  [35:steam_eruption->water]
+  [36:oblivion_wing->flying]
+  [38:quick_attack->normal]
+  [39:shadow_punch->ghost]
+  [40:horn_attack->normal]
+  [42:energy_ball->grass]
+  [43:swift->normal]
+  [44:grudge->ghost]
+  [46:teeter_dance->normal]
+  [47:wring_out->normal]
+  [48:devastating_drake->dragon]
+  [49:fury_cutter->bug]
+  [51:nature's_madness->fairy]
+  [52:tail_whip->normal]
+  [53:bind->normal]
+  [55:bouncy_bubble->water]
+  [56:rock_throw->rock]
+  [57:swallow->normal]
+  [58:confide->normal]
+  [60:thunder_punch->electric]
+  [61:wing_attack->flying]
+  [63:disarming_voice->fairy]
+  [64:pulverizing_pancake->normal]
+  [65:double_iron_bash->steel]
+  [66:dream_eater->psychic]
+  [67:blaze_kick->fire]
+  [68:hone_claws->dark]
+  [69:guard_split->psychic]
+  [70:mist_ball->psychic]
+  [71:mega_kick->normal]
+  [72:bite->dark]
+  [73:hurricane->flying]
+  [74:future_sight->psychic]
+  [75:metal_claw->steel]
+  [76:shadow_force->ghost]
+  [77:light_that_burns_the_sky->psychic]
+  [78:grass_pledge->grass]
+  [79:spectral_thief->ghost]
+  [81:mud_shot->ground]
+  [82:tickle->normal]
+  [83:cross_poison->poison]
+  [84:safeguard->normal]
+  [85:rock_wrecker->rock]
+  [86:torment->dark]
+  [87:meditate->psychic]
+  [88:veevee_volley->normal]
+  [89:baneful_bunker->poison]
+  [90:powder->bug]
+  [91:clanging_scales->dragon]
+  [92:crush_claw->normal]
+  [93:hold_hands->normal]
+  [94:electro_ball->electric]
+  [95:bug_bite->bug]
+  [96:growth->normal]
+  [97:leafage->grass]
+  [98:light_screen->psychic]
+  [99:outrage->dragon]
+  [100:smokescreen->normal]
+  [101:magic_room->psychic]
+  [104:pollen_puff->bug]
+  [105:zippy_zap->electric]
+  [106:spit_up->normal]
+  [107:thousand_arrows->ground]
+  [109:stoked_sparksurfer->electric]
+  [110:sucker_punch->dark]
+  [111:guardian_of_alola->fairy]
+  [112:psycho_boost->psychic]
+  [113:recover->normal]
+  [116:reflect_type->normal]
+  [117:hypnosis->psychic]
+  [118:mega_punch->normal]
+  [119:luster_purge->psychic]
+  [121:reflect->psychic]
+  [124:wood_hammer->grass]
+  [126:accelerock->rock]
+  [127:coil->poison]
+  [128:sketch->normal]
+  [130:misty_terrain->fairy]
+  [131:light_of_ruin->fairy]
+  [132:dive->water]
+  [133:acid_armor->poison]
+  [134:belch->poison]
+  [135:hold_back->normal]
+  [136:black_hole_eclipse->dark]
+  [137:hail->ice]
+  [139:magnet_bomb->steel]
+  [140:sand_tomb->ground]
+  [143:screech->normal]
+  [145:crunch->dark]
+  [147:stone_edge->rock]
+  [148:sunny_day->fire]
+  [149:smelling_salts->normal]
+  [163:mimic->normal]
+  [164:beat_up->dark]
+  [166:scratch->normal]
+  [169:skill_swap->psychic]
+  [171:noble_roar->normal]
+  [172:amnesia->psychic]
+  [173:toxic_spikes->poison]
+  [174:cosmic_power->psychic]
+  [175:double_team->normal]
+  [178:gravity->psychic]
+  [179:spike_cannon->normal]
+  [180:haze->ice]
+  [182:dragon_hammer->dragon]
+  [183:teleport->psychic]
+  [184:breakneck_blitz->normal]
+  [185:tailwind->flying]
+  [188:water_gun->water]
+  [189:moonlight->fairy]
+  [190:inferno_overdrive->fire]
+  [193:work_up->normal]
+  [195:defense_curl->normal]
+  [201:rollout->rock]
+  [202:bullet_seed->grass]
+  [203:iron_head->steel]
+  [204:sweet_scent->normal]
+  [205:floaty_fall->flying]
+  [214:double_slap->normal]
+  [215:leaf_blade->grass]
+  [216:flamethrower->fire]
+  [217:flare_blitz->fire]
+  [218:discharge->electric]
+  [219:psycho_shift->psychic]
+  [220:recycle->normal]
+  [221:nature_power->normal]
+  [223:splintered_stormshards->rock]
+  [224:strength_sap->grass]
+  [229:defend_order->bug]
+  [230:psychic_fangs->psychic]
+  [231:detect->fighting]
+  [234:diamond_storm->rock]
+  [235:focus_punch->fighting]
+  [236:psychic_terrain->psychic]
+  [237:astonish->ghost]
+  [238:quiver_dance->bug]
+  [239:drill_run->ground]
+  [241:water_shuriken->water]
+  [242:bug_buzz->bug]
+  [244:searing_sunraze_smash->steel]
+  [245:sweet_kiss->fairy]
+  [247:charm->fairy]
+  [248:snatch->dark]
+  [250:metronome->normal]
+  [251:circle_throw->fighting]
+  [252:echoed_voice->normal]
+  [254:fell_stinger->bug]
+  [255:solar_blade->grass]
+  [259:comet_punch->normal]
+  [260:icy_wind->ice]
+  [261:powder_snow->ice]
+  [262:confuse_ray->ghost]
+  [263:power-up_punch->fighting]
+  [264:worry_seed->grass]
+  [266:prismatic_laser->psychic]
+  [269:pain_split->normal]
+  [270:crush_grip->normal]
+  [272:forest's_curse->grass]
+  [273:splishy_splash->water]
+  [274:body_slam->normal]
+  [275:leer->normal]
+  [277:defog->flying]
+  [278:conversion->normal]
+  [286:power_whip->grass]
+  [287:arm_thrust->fighting]
+  [289:fury_attack->normal]
+  [290:last_resort->normal]
+  [291:head_charge->normal]
+  [293:power_swap->psychic]
+  [294:waterfall->water]
+  [295:power_trip->dark]
+  [297:lick->ghost]
+  [298:ominous_wind->ghost]
+  [299:mystical_fire->fire]
+  [300:rage_powder->bug]
+  [301:tectonic_rage->ground]
+  [304:howl->normal]
+  [305:rain_dance->water]
+  [306:struggle_bug->bug]
+  [307:burn_up->fire]
+  [308:catastropika->electric]
+  [309:flame_charge->fire]
+  [310:petal_blizzard->grass]
+  [311:lucky_chant->normal]
+  [312:psych_up->normal]
+  [314:revenge->fighting]
+  [315:aromatherapy->grass]
+  [316:mirror_coat->psychic]
+  [319:refresh->normal]
+  [321:uproar->normal]
+  [322:steamroller->bug]
+  [323:seismic_toss->fighting]
+  [324:speed_swap->psychic]
+  [325:stockpile->normal]
+  [326:dig->ground]
+  [327:gust->flying]
+  [328:synthesis->grass]
+  [329:earthquake->ground]
+  [330:trick-or-treat->ghost]
+  [331:reversal->fighting]
+  [332:psystrike->psychic]
+  [333:grass_knot->grass]
+  [334:stomping_tantrum->ground]
+  [337:bone_club->ground]
+  [338:giga_impact->normal]
+  [339:dragon_dance->dragon]
+  [340:thrash->normal]
+  [341:absorb->grass]
+  [342:psybeam->psychic]
+  [343:clamp->water]
+  [344:genesis_supernova->psychic]
+  [346:sheer_cold->ice]
+  [348:thunder_wave->electric]
+  [349:razor_wind->normal]
+  [350:thousand_waves->ground]
+  [351:drain_punch->fighting]
+  [352:dazzling_gleam->fairy]
+  [353:block->normal]
+  [354:lovely_kiss->normal]
+  [355:fake_tears->dark]
+  [356:nuzzle->electric]
+  [357:shattered_psyche->psychic]
+  [358:strength->normal]
+  [359:superpower->fighting]
+  [360:final_gambit->fighting]
+  [362:sludge_wave->poison]
+  [364:vacuum_wave->fighting]
+  [365:giga_drain->grass]
+  [366:cut->normal]
+  [367:darkest_lariat->dark]
+  [368:hex->ghost]
+  [369:clangorous_soulblaze->dragon]
+  [370:peck->flying]
+  [371:fly->flying]
+  [372:anchor_shot->steel]
+  [373:grass_whistle->grass]
+  [374:minimize->normal]
+  [375:quick_guard->fighting]
+  [376:needle_arm->grass]
+  [378:shell_smash->normal]
+  [381:mist->ice]
+  [383:wonder_room->psychic]
+  [384:flash_cannon->steel]
+  [386:heal_block->psychic]
+  [387:trick_room->psychic]
+  [388:shift_gear->steel]
+  [389:scald->water]
+  [390:take_down->normal]
+  [393:rage->normal]
+  [394:confusion->psychic]
+  [395:triple_kick->fighting]
+  [396:transform->normal]
+  [400:laser_focus->normal]
+  [405:lock-on->normal]
+  [406:aurora_beam->ice]
+  [407:endeavor->normal]
+  [408:wake-up_slap->fighting]
+  [409:psychic->psychic]
+  [410:ice_hammer->ice]
+  [411:let's_snuggle_forever->fairy]
+  [412:lunge->bug]
+  [413:rapid_spin->normal]
+  [414:shadow_ball->ghost]
+  [415:secret_power->normal]
+  [417:fairy_lock->fairy]
+  [418:parting_shot->dark]
+  [419:sticky_web->bug]
+  [420:submission->fighting]
+  [421:sappy_seed->grass]
+  [422:play_rough->fairy]
+  [423:fire_blast->fire]
+  [424:infestation->bug]
+  [425:struggle->normal]
+  [426:tackle->normal]
+  [428:heat_crash->fire]
+  [431:moonblast->fairy]
+  [433:wild_charge->electric]
+  [438:aqua_jet->water]
+  [439:constrict->normal]
+  [440:guillotine->normal]
+  [441:baton_pass->normal]
+  [442:parabolic_charge->electric]
+  [443:pika_papow->electric]
+  [444:destiny_bond->ghost]
+  [445:vice_grip->normal]
+  [447:geomancy->fairy]
+  [448:egg_bomb->normal]
+  [449:malicious_moonsault->dark]
+  [450:agility->psychic]
+  [451:focus_energy->normal]
+  [453:thunderbolt->electric]
+  [455:sharpen->normal]
+  [458:volt_switch->electric]
+  [461:foresight->normal]
+  [462:freeze-dry->ice]
+  [463:captivate->normal]
+  [464:dragon_claw->dragon]
+  [465:hyperspace_hole->psychic]
+  [466:iron_defense->steel]
+  [467:aeroblast->flying]
+  [468:simple_beam->normal]
+  [469:brick_break->fighting]
+  [470:fire_fang->fire]
+  [471:extrasensory->psychic]
+  [472:floral_healing->fairy]
+  [474:precipice_blades->ground]
+  [475:purify->poison]
+  [476:feint->normal]
+  [477:glaciate->ice]
+  [479:hammer_arm->fighting]
+  [480:barrage->normal]
+  [481:brutal_swing->dark]
+  [482:me_first->normal]
+  [483:smack_down->rock]
+  [484:doom_desire->steel]
+  [486:sunsteel_strike->steel]
+  [488:brine->water]
+  [489:glitzy_glow->psychic]
+  [490:sludge->poison]
+  [491:telekinesis->psychic]
+  [492:shell_trap->fire]
+  [493:entrainment->normal]
+  [496:gear_grind->steel]
+  [499:spirit_shackle->ghost]
+  [501:wide_guard->rock]
+  [502:gunk_shot->poison]
+  [503:hyperspace_fury->dark]
+  [505:bulldoze->ground]
+  [506:blast_burn->fire]
+  [507:karate_chop->fighting]
+  [508:flame_burst->fire]
+  [509:slam->normal]
+  [511:poison_sting->poison]
+  [514:poison_gas->poison]
+  [515:roar->normal]
+  [516:rest->psychic]
+  [517:supersonic->normal]
+  [518:shadow_claw->ghost]
+  [519:ember->fire]
+  [521:mud_sport->ground]
+  [522:spiky_shield->grass]
+  [523:heal_order->bug]
+  [524:iron_tail->steel]
+  [525:poison_jab->poison]
+  [527:sand_attack->ground]
+  [528:fusion_bolt->electric]
+  [530:beak_blast->flying]
+  [531:sing->normal]
+  [533:electrify->electric]
+  [534:frustration->normal]
+  [535:high_jump_kick->fighting]
+  [536:shadow_bone->ghost]
+  [537:shore_up->ground]
+  [538:magnet_rise->electric]
+  [540:bubble->water]
+  [541:all-out_pummeling->fighting]
+  [542:instruct->psychic]
+  [543:soak->water]
+  [544:heat_wave->fire]
+  [545:chip_away->normal]
+  [546:rock_blast->rock]
+  [548:sinister_arrow_raid->ghost]
+  [549:liquidation->water]
+  [550:pluck->flying]
+  [552:buzzy_buzz->electric]
+  [553:cross_chop->fighting]
+  [554:smog->poison]
+  [555:acid_spray->poison]
+  [556:disable->normal]
+  [557:extreme_evoboost->normal]
+  [558:switcheroo->dark]
+  [559:barrier->psychic]
+  [560:hydro_pump->water]
+  [561:spikes->ground]
+  [562:swords_dance->normal]
+  [563:frost_breath->ice]
+  [564:acupressure->normal]
+  [565:attract->normal]
+  [566:false_swipe->normal]
+  [567:soft-boiled->normal]
+  [568:twister->dragon]
+  [569:spotlight->normal]
+  [570:flail->normal]
+  [571:weather_ball->normal]
+  [572:kinesis->psychic]
+  [573:mind_reader->normal]
+  [574:trop_kick->grass]
+  [575:belly_drum->normal]
+  [576:multi-attack->normal]
+  [578:zing_zap->electric]
+  [579:jump_kick->fighting]
+  [580:zap_cannon->electric]
+  [581:aura_sphere->fighting]
+  [583:splash->normal]
+  [585:water_pledge->water]
+  [586:aerial_ace->flying]
+  [587:charge_beam->electric]
+  [589:super_fang->normal]
+  [590:withdraw->water]
+  [592:thunder->electric]
+  [593:covet->normal]
+  [594:drill_peck->flying]
+  [596:flash->normal]
+  [597:assurance->dark]
+  [599:attack_order->bug]
+  [600:brave_bird->flying]
+  [601:muddy_water->water]
+  [602:menacing_moonraze_maelstrom->ghost]
+  [604:tri_attack->normal]
+  [605:magnitude->ground]
+  [611:electric_terrain->electric]
+  [612:poison_fang->poison]
+  [617:dark_void->dark]
+  [618:dragon_ascent->flying]
+  [619:feather_dance->flying]
+  [622:taunt->dark]
+  [623:headbutt->normal]
+  [624:perish_song->normal]
+  [625:mirror_move->flying]
+  [626:sparkling_aria->water]
+  [628:techno_blast->normal]
+  [629:stored_power->psychic]
+  [630:hyper_beam->normal]
+  [631:aqua_tail->water]
+  [632:overheat->fire]
+  [634:mat_block->fighting]
+  [635:rock_polish->rock]
+  [637:mud_bomb->ground]
+  [638:surf->water]
+  [639:wish->normal]
+  [640:yawn->normal]
+  [644:metal_burst->steel]
+  [645:hydro_vortex->water]
+  [646:spider_web->bug]
+  [647:fire_lash->fire]
+  [648:bounce->flying]
+  [649:autotomize->steel]
+  [652:fling->dark]
+  [653:magic_coat->psychic]
+  [654:shock_wave->electric]
+  [656:pound->normal]
+  [657:slash->normal]
+  [658:thief->dark]
+  [659:avalanche->ice]
+  [660:aqua_ring->water]
+  [661:freezy_frost->ice]
+  [662:subzero_slammer->ice]
+  [663:inferno->fire]
+  [664:rock_climb->normal]
+  [665:retaliate->normal]
+  [668:scary_face->normal]
+  [671:glare->normal]
+  [672:fake_out->normal]
+  [673:storm_throw->fighting]
+  [674:wrap->normal]
+  [675:imprison->psychic]
+  [676:tail_glow->bug]
+  [677:fiery_dance->fire]
+  [680:air_cutter->flying]
+  [681:double-edge->normal]
+  [683:dizzy_punch->normal]
+  [684:volt_tackle->electric]
+  [685:copycat->normal]
+  [686:fairy_wind->fairy]
+  [687:corkscrew_crash->steel]
+  [688:sleep_talk->normal]
+  [690:night_shade->ghost]
+  [692:meteor_mash->steel]
+  [693:assist->normal]
+  [694:freeze_shock->ice]
+  [695:gyro_ball->steel]
+  [696:frenzy_plant->grass]
+  [697:low_sweep->fighting]
+  [699:flame_wheel->fire]
+  [700:psyshock->psychic]
+  [701:fissure->ground]
+  [702:icicle_crash->ice]
+  [704:hydro_cannon->water]
+  [705:bloom_doom->grass]
+  [706:searing_shot->fire]
+  [708:dark_pulse->dark]
+  [710:throat_chop->dark]
+  [712:snarl->dark]
+  [713:rolling_kick->fighting]
+  [715:ice_ball->ice]
+  [718:mirror_shot->steel]
+  [719:ice_beam->ice]
+  [728:bonemerang->ground]
+  [729:origin_pulse->water]
+  [730:lava_plume->fire]
+  [731:continental_crush->rock]
+  [732:bulk_up->fighting]
+  [733:sleep_powder->grass]
+  [734:natural_gift->normal]
+  [735:hyper_fang->normal]
+  [738:fire_pledge->fire]
+  [739:petal_dance->grass]
+  [740:baddy_bad->dark]
+  [741:air_slash->flying]
+  [742:quash->dark]
+  [743:revelation_dance->normal]
+  [744:blizzard->ice]
+  [745:smart_strike->steel]
+  [746:curse->ghost]
+  [747:follow_me->normal]
+  [748:razor_shell->water]
+  [750:rototiller->ground]
+  [754:ice_shard->ice]
+  [755:silver_wind->bug]
+  [756:gastro_acid->poison]
+  [757:knock_off->dark]
+  [758:topsy-turvy->dark]
+  [759:sky_attack->flying]
+  [760:synchronoise->psychic]
+  [761:sky_drop->flying]
+  [763:punishment->dark]
+  [764:steel_wing->steel]
+  [765:spark->electric]
+  [766:venoshock->poison]
+  [768:poison_powder->poison]
+  [769:dragon_rage->dragon]
+  [770:flower_shield->fairy]
+  [771:acrobatics->flying]
+  [772:horn_drill->normal]
+  [773:chatter->flying]
+  [774:sonic_boom->normal]
+  [776:earth_power->ground]
+  [777:stealth_rock->rock]
+  [779:gear_up->steel]
+  [780:protect->normal]
+  [781:morning_sun->normal]
+  [783:swagger->normal]
+  [785:focus_blast->fighting]
+  [786:heal_pulse->psychic]
+  [787:whirlpool->water]
+  [789:high_horsepower->ground]
+  [790:fury_swipes->normal]
+  [791:draining_kiss->fairy]
+  [792:nasty_plot->dark]
+  [794:sandstorm->rock]
+  [795:close_combat->fighting]
+  [796:night_daze->dark]
+  [797:sacred_fire->fire]
+  [798:calm_mind->psychic]
+  [799:roost->flying]
+  [800:eruption->fire]
+  [801:relic_song->normal]
+  [803:zen_headbutt->psychic]
+  [804:dragon_breath->dragon]
+  [806:venom_drench->poison]
+  [808:healing_wish->psychic]
+  [812:acid_downpour->poison]
+  [815:octazooka->water]
+  [816:harden->normal]
+  [817:blue_flare->fire]
+  [818:round->normal]
+  [819:secret_sword->fighting]
+  [820:clear_smog->poison]
+  [821:seed_flare->grass]
+  [823:bone_rush->ground]
+  [824:charge->electric]
+  [825:king's_shield->steel]
+  [827:self-destruct->normal]
+  [828:ice_fang->ice]
+  [829:boomburst->normal]
+  [830:lunar_dance->psychic]
+  [831:fusion_flare->fire]
+  [832:snore->normal]
+  [833:water_pulse->water]
+  [835:x-scissor->bug]
+  [836:dragon_tail->dragon]
+  [837:head_smash->rock]
+  [838:spite->ghost]
+  [839:flying_press->fighting]
+  [840:return->normal]
+  [841:roar_of_time->dragon]
+  [842:night_slash->dark]
+  [843:vital_throw->fighting]
+  [844:seed_bomb->grass]
+  [845:cotton_spore->grass]
+  [846:low_kick->fighting]
+  [847:substitute->normal]
+  [848:after_you->normal]
+  [849:magical_leaf->grass]
+  [850:pay_day->normal]
+  [851:gigavolt_havoc->electric]
+  [852:draco_meteor->dragon]
+  [853:conversion_2->normal]
+  [855:v-create->fire]
+  [856:string_shot->bug]
+  [859:thunder_fang->electric]
+  [860:eerie_impulse->electric]
+  [862:leech_life->bug]
+  [863:metal_sound->steel]
+  [864:encore->normal]
+  [865:fire_punch->fire]
+  [866:whirlwind->normal]
+  [867:moongeist_beam->ghost]
+  [868:milk_drink->normal]
+  [869:vine_whip->grass]
+  [871:spacial_rend->dragon]
+  [872:bolt_strike->electric]
+  [873:cotton_guard->grass]
+  [875:psycho_cut->psychic]
+  [876:power_split->psychic]
+  [877:trump_card->normal]
+  [878:facade->normal]
+  [880:magnetic_flux->electric]
+  [881:phantom_force->ghost]
+  [883:miracle_eye->psychic]
+  [884:bestow->normal]
+  [885:spore->grass]
+  [886:ancient_power->rock]
+  [887:sludge_bomb->poison]
+  [889:dragon_pulse->dragon]
+  [891:feint_attack->dark]
+  [892:mind_blown->fire]
+  [893:pin_missile->bug]
+  [894:heart_stamp->psychic]
+  [895:payback->dark]
+  [896:play_nice->normal]
+  [897:grassy_terrain->grass]
+  [898:pursuit->dark]
+  [899:tearful_look->normal]
+  [900:photon_geyser->psychic]
+  [901:power_gem->rock]
+  [902:dynamic_punch->fighting]
+  [904:judgment->normal]
+  [905:sizzly_slide->fire]
+  [906:twinkle_tackle->fairy]
+  [909:dual_chop->dragon]
+  [910:explosion->normal]
+  [913:will-o-wisp->fire]
+  [915:ice_burn->ice]
+  [920:extreme_speed->normal]
+  [922:ingrain->grass]
+  [923:ally_switch->psychic]
+  [926:toxic_thread->poison]
+  [927:psywave->psychic]
+  [928:trick->psychic]
+  [937:double_hit->normal]
+  [938:force_palm->fighting]
+  [939:ice_punch->ice]
+  [943:icicle_spear->ice]
+  [944:leaf_tornado->grass]
+  [945:endure->normal]
+  [946:memento->dark]
+  [947:fire_spin->fire]
+  [948:hyper_voice->normal]
+  [949:acid->poison]
+  [950:crabhammer->water]
+  [951:tail_slap->normal]
+  [952:first_impression->bug]
+  [953:mean_look->normal]
+  [954:incinerate->fire]
+  [955:mega_drain->grass]
+  [956:heart_swap->psychic]
+  [957:counter->fighting]
+  [958:sacred_sword->fighting]
+  [959:nightmare->ghost]
+  [960:flatter->dark]
+  [961:electroweb->electric]
+  [962:power_trick->psychic]
+  [963:foul_play->dark]
+  [964:double_kick->fighting]
+  [965:megahorn->bug]
+  [966:mud-slap->ground]
+  [967:baby-doll_eyes->fairy]
+  [968:present->normal]
+  [969:aurora_veil->ice]
+  [971:razor_leaf->grass]
+  [972:camouflage->normal]
+  [973:stun_spore->grass]
+  [974:sky_uppercut->fighting]
+  [976:water_sport->water]
+  [977:bullet_punch->steel]
+  [978:sparkly_swirl->fairy]
+  [979:poison_tail->poison]
+  [980:mach_punch->fighting]
+  [981:growl->normal]
+  [982:rock_smash->fighting]
+  [983:celebrate->normal]
+  [984:slack_off->normal]
+  [985:shadow_sneak->ghost]
+  [986:plasma_fists->electric]
+  [988:dragon_rush->dragon]
+  [989:magma_storm->fire]
+  [990:solar_beam->grass]
+  [991:toxic->poison]
+
+Effectivities: 12/31
+  [3:steel->rock]
+  [4:bug->dark,grass,psychic]
+  [6:psychic->fighting,poison]
+  [7:poison->grass]
+  [13:grass->ground,rock,water]
+  [17:water->fire,ground,rock]
+  [18:rock->bug,fire,flying]
+  [19:fire->bug,grass,ice,steel]
+  [22:flying->bug,fighting,grass]
+  [23:dark->ghost,psychic]
+  [24:fighting->dark,rock,steel]
+  [25:ghost->ghost,psychic]
+
+Ineffectivities: 16/31
+  [3:steel->fire,steel,water]
+  [4:bug->fighting,fire,flying,ghost,poison,steel]
+  [5:poison:->ghost,poison,rock,steel]
+  [6:psychic->dark,psychic,steel]
+  [7:poison->ghost,poison,rock,steel]
+  [9:ghost:->dark]
+  [12:dark:->dark,fighting]
+  [13:grass->bug,fire,flying,grass,poison,steel]
+  [17:water->grass,water]
+  [18:rock->fighting,steel]
+  [19:fire->fire,rock,water]
+  [22:flying->rock,steel]
+  [23:dark->dark,fighting]
+  [24:fighting->bug,flying,poison,psychic]
+  [25:ghost->dark]
+  [28:fighting:->bug,flying,poison,psychic]

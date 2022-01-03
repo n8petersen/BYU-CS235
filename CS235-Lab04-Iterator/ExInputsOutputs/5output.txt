@@ -1,0 +1,18 @@
+
+Insert Groot. happy happy am I
+Insert Happy
+Replace happy sad OK
+PrintList Happy I am sad sad Groot.
+Replace sad sad OK
+PrintList Happy I am sad sad Groot.
+Replace sad mad OK
+PrintList Happy I am mad mad Groot.
+Clear OK
+Insert time! the is Now
+PrintList Now is the time!
+Replace time! day! OK
+PrintList Now is the day!
+Insert joy joy joy
+PrintList joy joy joy Now is the day!
+Replace joy Happy OK
+PrintList Happy Happy Happy Now is the day!

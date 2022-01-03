@@ -1,0 +1,14 @@
+13 5
+Alan Turing  81 100 100 99 65
+Tim Berners-Lee  100 96 70 81 72
+Grace Hooper  100 67 71 68 94
+Donald Knuth  78 82 73 76 100
+Larry Page  100 82 82 100 100
+Sergey Brin  77 89 76 77 100
+Ada Lovelace  100 67 100 100 100
+Charles Babbage  88 77 79 86 89
+Barbara Liskov  91 69 77 100 77
+Mark Zuckerburg  86 94 74 100 100
+Bill Gates  99 92 100 100 84
+Brendan Eich  83 72 74 74 82
+Hedy Lamarr  67 67 96 100 100

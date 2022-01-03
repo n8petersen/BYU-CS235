@@ -1,0 +1,14 @@
+
+Insert Groot. happy happy am I
+PrintList I am happy happy Groot.
+Erase happy OK
+PrintList I am happy Groot.
+Erase I OK
+PrintList am happy Groot.
+Erase Groot. OK
+PrintList am happy
+Erase Groot Not Found
+PrintList am happy
+Iterate
+ [am]
+ [happy]

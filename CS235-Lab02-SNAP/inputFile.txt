@@ -1,0 +1,23 @@
+snap(12345,Charlie Brown,Manager,555-1234).
+snap(67890,Lucy,Right Field,555-5678).
+snap(22222,Linus,2nd Base,555-9999).
+snap(33333,Snoopy,Catcher,555-1234).
+csg(CS101,12345,A).
+csg(CS101,67890,B).
+csg(CS101,33333,A-).
+csg(EE200,12345,C).
+csg(EE200,22222,B+).
+csg(EE200,33333,B).
+xxxx
+csg(PH100,33333,A).
+csg(PH100,67890,C+).
+cdh(CS101,M,9AM).
+cdh(CS101,W,9AM).
+cdh(CS101,F,9AM).
+cdh(EE200,T,10AM).
+cdh(EE200,Th,10AM).
+cdh(PH100,T,11AM).
+cdh(PH100,Th,11AM).
+cr(CS101,1170 TMCB).
+cr(EE200,B92 JFSB).
+cr(PH100,3106 JKB).

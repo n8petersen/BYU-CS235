@@ -1,0 +1,20 @@
+Expression: 33 @ 127
+Infix:
+Expression: 4 % 2 -
+Infix:
+Expression: 4 2 & -
+Infix:
+Expression: 3 % { 7 - ( 2 / [ 5 - 81 ] } + 1 )
+Infix:
+Expression: 2 * 3 + ( 6 / 4 ) - 6
+Infix:
+Expression: 2 * 3 + ( 6 / 4 ) - 7
+Postfix:
+Expression: 2 * 3 + ( 6 / 4 ) - 8
+Value:
+Expression: 2 * 3 + ( 6 / 4 ) - 9
+Prefix:
+Expression: 4 % 2 5 -
+Infix:
+Expression: ( 43 + + 2 ) * 19 20
+Infix:

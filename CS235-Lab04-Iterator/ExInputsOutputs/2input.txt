@@ -1,0 +1,16 @@
+Insert time. the is Now
+PrintList
+InsertAfter really is
+PrintList
+InsertAfter really Now
+PrintList
+InsertAfter really pig
+PrintList
+InsertAfter really! time.
+PrintList
+InsertBefore really is
+PrintList
+InsertBefore really Now
+PrintList
+InsertBefore really pig
+Iterate

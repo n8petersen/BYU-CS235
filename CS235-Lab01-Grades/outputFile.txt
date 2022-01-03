@@ -1,0 +1,55 @@
+Student Scores: 
+        Alan Turing      81   100   100    99    65
+    Tim Berners-Lee     100    96    70    81    72
+       Grace Hooper     100    67    71    68    94
+       Donald Knuth      78    82    73    76   100
+         Larry Page     100    82    82   100   100
+        Sergey Brin      77    89    76    77   100
+       Ada Lovelace     100    67   100   100   100
+    Charles Babbage      88    77    79    86    89
+     Barbara Liskov      91    69    77   100    77
+    Mark Zuckerburg      86    94    74   100   100
+         Bill Gates      99    92   100   100    84
+       Brendan Eich      83    72    74    74    82
+        Hedy Lamarr      67    67    96   100   100
+Exam Averages: 
+    Exam 1 Average =   88.5
+    Exam 2 Average =   81.1
+    Exam 3 Average =   82.5
+    Exam 4 Average =   89.3
+    Exam 5 Average =   89.5
+Student Exam Grades: 
+         Alan Turing    81(D)  100(A)  100(A)   99(B)   65(E)
+     Tim Berners-Lee   100(B)   96(B)   70(D)   81(D)   72(E)
+        Grace Hooper   100(B)   67(D)   71(D)   68(E)   94(C)
+        Donald Knuth    78(D)   82(C)   73(D)   76(D)  100(B)
+          Larry Page   100(B)   82(C)   82(C)  100(B)  100(B)
+         Sergey Brin    77(D)   89(B)   76(D)   77(D)  100(B)
+        Ada Lovelace   100(B)   67(D)  100(A)  100(B)  100(B)
+     Charles Babbage    88(C)   77(C)   79(C)   86(C)   89(C)
+      Barbara Liskov    91(C)   69(D)   77(D)  100(B)   77(D)
+     Mark Zuckerburg    86(C)   94(B)   74(D)  100(B)  100(B)
+          Bill Gates    99(B)   92(B)  100(A)  100(B)   84(D)
+        Brendan Eich    83(D)   72(D)   74(D)   74(E)   82(D)
+         Hedy Lamarr    67(E)   67(D)   96(B)  100(B)  100(B)
+Exam Grades: 
+    Exam  1    0(A)    5(B)    3(C)    4(D)    1(E)
+    Exam  2    1(A)    4(B)    3(C)    5(D)    0(E)
+    Exam  3    3(A)    1(B)    2(C)    7(D)    0(E)
+    Exam  4    0(A)    7(B)    1(C)    3(D)    2(E)
+    Exam  5    0(A)    6(B)    2(C)    3(D)    2(E)
+Student Final Grades: 
+        Alan Turing   89.0(C)
+    Tim Berners-Lee   83.8(C)
+       Grace Hooper   80.0(D)
+       Donald Knuth   81.8(C)
+         Larry Page   92.8(B)
+        Sergey Brin   83.8(C)
+       Ada Lovelace   93.4(B)
+    Charles Babbage   83.8(C)
+     Barbara Liskov   82.8(C)
+    Mark Zuckerburg   90.8(C)
+         Bill Gates   95.0(B)
+       Brendan Eich   77.0(D)
+        Hedy Lamarr   86.0(C)
+Class Average Score = 86.2

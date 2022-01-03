@@ -1,0 +1,37 @@
+
+Insert do. you unless work will Nothing
+PrintList Nothing will work unless you do.
+Find Nothing OK
+Find nothing Not Found
+Find do. OK
+Clear OK
+Insert dog. lazy the over jumped fox brown quick The
+PrintList The quick brown fox jumped over the lazy dog.
+Iterate
+ [The]
+ [quick]
+ [brown]
+ [fox]
+ [jumped]
+ [over]
+ [the]
+ [lazy]
+ [dog.]
+InsertAfter foxy fox OK
+PrintList The quick brown fox foxy jumped over the lazy dog.
+Erase fox OK
+Iterate
+ [The]
+ [quick]
+ [brown]
+ [foxy]
+ [jumped]
+ [over]
+ [the]
+ [lazy]
+ [dog.]
+Find fox Not Found
+Find brown OK
+Find The OK
+Clear OK
+Iterate Empty!

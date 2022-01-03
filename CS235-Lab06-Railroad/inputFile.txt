@@ -1,0 +1,296 @@
+Add:station 001
+Add:queue
+Remove:queue
+Add:queue
+Remove:queue
+Add:queue
+Add:station 002
+Add:queue
+Add:station 003
+Add:stack
+Add:station 004
+Add:stack
+Add:station 005
+Remove:station
+Add:station 006
+Remove:station
+Add:station 007
+Add:queue
+
+Add:station 008
+Add:queue
+Add:station 009
+Add:queue
+Add:station 010
+Add:queue
+Add:station 011
+Add:queue
+Add:station 012
+Add:queue
+Add:station 013
+Add:queue
+Add:station 014
+Add:queue
+Add:station 015
+Add:queue
+Add:station 016
+Add:queue
+Add:station 017
+Add:queue
+Add:station 018
+Add:queue
+Add:station 019
+Add:queue
+
+Add:station 020
+Add:queue
+Add:station 021
+Add:queue
+Add:station 022
+Add:queue
+Add:station 023
+Add:queue
+Add:station 024
+Add:queue
+Add:station 025
+Add:queue
+Add:station 026
+Add:queue
+Add:station 027
+Add:queue
+Add:station 028
+Add:queue
+Add:station 029
+Add:queue
+
+Add:station 030
+Add:queue
+Add:station 031
+Add:queue
+Add:station 032
+Add:queue
+Add:station 033
+Add:queue
+Add:station 034
+Add:queue
+Add:station 035
+Add:queue
+Add:station 036
+Add:queue
+Add:station 037
+Add:queue
+Add:station 038
+Add:queue
+Add:station 039
+Add:queue
+
+Add:station 040
+Add:queue
+Add:station 041
+Add:queue
+Add:station 042
+Add:queue
+Add:station 043
+Add:queue
+Add:station 044
+Add:queue
+Add:station 045
+Add:queue
+Add:station 046
+Add:queue
+Add:station 047
+Add:queue
+Add:station 048
+Add:queue
+Add:station 049
+Add:queue
+
+Add:station 050
+Add:queue
+Add:station 051
+Add:queue
+Add:station 052
+Add:queue
+Add:station 053
+Add:queue
+Add:station 054
+Add:queue
+Add:station 055
+Add:queue
+Add:station 056
+Add:queue
+Add:station 057
+Add:queue
+Add:station 058
+Add:queue
+Add:station 059
+Add:queue
+
+Add:station 060
+Add:queue
+Add:station 061
+Add:queue
+Add:station 062
+Add:queue
+Add:station 063
+Add:queue
+Add:station 064
+Add:queue
+Add:station 065
+Add:queue
+Add:station 066
+Add:queue
+Add:station 067
+Add:queue
+Add:station 068
+Add:queue
+Add:station 069
+Add:queue
+
+Add:station 070
+Add:queue
+Add:station 071
+Add:queue
+Add:station 072
+Add:queue
+Add:station 073
+Add:queue
+Add:station 074
+Add:queue
+Add:station 075
+Add:queue
+Add:station 076
+Add:queue
+Add:station 077
+Add:queue
+Add:station 078
+Add:queue
+Add:station 079
+Add:queue
+
+Add:station 080
+Add:queue
+Add:station 081
+Add:queue
+Add:station 082
+Add:queue
+Add:station 083
+Add:queue
+Add:station 084
+Add:queue
+Add:station 085
+Add:queue
+Add:station 086
+Add:queue
+Add:station 087
+Add:queue
+Add:station 088
+Add:queue
+Add:station 089
+Add:queue
+
+Add:station 090
+Add:stack
+Add:station 091
+Add:stack
+Add:station 092
+Add:stack
+Add:station 093
+Add:stack
+Add:station 094
+Add:stack
+Add:station 095
+Add:stack
+Add:station 096
+Add:stack
+Add:station 097
+Add:stack
+Add:station 098
+Add:stack
+Add:station 099
+Add:stack
+Add:station 100
+
+Find 1
+Find 2
+Find 3
+Find 4
+Find 5
+Find 6
+Find 7
+Find 8
+Find 9
+Find 10
+Find 11
+Find 12
+Find 13
+Find 14
+Find 15
+Find 16
+Find 17
+Find 18
+Find 19
+Find 90
+Find 91
+Find 92
+Find 93
+Find 94
+Find 95
+Find 96
+Find 97
+Find 98
+Find 99
+Find 100
+
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Size:queue
+Queue
+Size:stack
+Stack
+Size:train
+Train

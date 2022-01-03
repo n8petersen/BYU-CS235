@@ -1,0 +1,30 @@
+
+Expression: 33 @ 127
+Infix: Illegal Operator
+
+Expression: 4 % 2 -
+Infix: Missing Operand
+
+Expression: 4 2 & -
+Infix: Missing Operator
+
+Expression: 3 % { 7 - ( 2 / [ 5 - 81 ] } + 1 )
+Infix: Unbalanced
+
+Expression: 2 * 3 + ( 6 / 4 ) - 6
+Infix: 2 * 3 + ( 6 / 4 ) - 6 
+
+Expression: 2 * 3 + ( 6 / 4 ) - 7
+Postfix: 2 3 * 6 4 / + 7 - 
+
+Expression: 2 * 3 + ( 6 / 4 ) - 8
+Value: -1
+
+Expression: 2 * 3 + ( 6 / 4 ) - 9
+Prefix: - + * 2 3 / 6 4 9 
+
+Expression: 4 % 2 5 -
+Infix: Missing Operator
+
+Expression: ( 43 + + 2 ) * 19 20
+Infix: Missing Operand

@@ -1,0 +1,29 @@
+
+Insert men. good all for time the is Now
+PrintList Now is the time for all good men.
+Iterate
+ [Now]
+ [is]
+ [the]
+ [time]
+ [for]
+ [all]
+ [good]
+ [men.]
+Clear OK
+Iterate Empty!
+Insert je. dank Goed,
+Iterate
+ [Goed,]
+ [dank]
+ [je.]
+Insert jou? met het gaat Hoe
+Iterate
+ [Hoe]
+ [gaat]
+ [het]
+ [met]
+ [jou?]
+ [Goed,]
+ [dank]
+ [je.]

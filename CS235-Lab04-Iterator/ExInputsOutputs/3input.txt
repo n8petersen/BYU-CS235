@@ -1,0 +1,11 @@
+Insert Groot. happy happy am I
+PrintList
+Erase happy
+PrintList
+Erase I
+PrintList
+Erase Groot.
+PrintList
+Erase Groot
+PrintList
+Iterate

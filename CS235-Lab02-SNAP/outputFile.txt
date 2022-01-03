@@ -1,0 +1,78 @@
+Input Strings:
+snap(12345,Charlie Brown,Manager,555-1234).
+snap(67890,Lucy,Right Field,555-5678).
+snap(22222,Linus,2nd Base,555-9999).
+snap(33333,Snoopy,Catcher,555-1234).
+csg(CS101,12345,A).
+csg(CS101,67890,B).
+csg(CS101,33333,A-).
+csg(EE200,12345,C).
+csg(EE200,22222,B+).
+csg(EE200,33333,B).
+**Error: xxxx
+csg(PH100,33333,A).
+csg(PH100,67890,C+).
+cdh(CS101,M,9AM).
+cdh(CS101,W,9AM).
+cdh(CS101,F,9AM).
+cdh(EE200,T,10AM).
+cdh(EE200,Th,10AM).
+cdh(PH100,T,11AM).
+cdh(PH100,Th,11AM).
+cr(CS101,1170 TMCB).
+cr(EE200,B92 JFSB).
+cr(PH100,3106 JKB).
+
+Vectors:
+snap(12345,Charlie Brown,Manager,555-1234)
+snap(67890,Lucy,Right Field,555-5678)
+snap(22222,Linus,2nd Base,555-9999)
+snap(33333,Snoopy,Catcher,555-1234)
+csg(CS101,12345,A)
+csg(CS101,67890,B)
+csg(CS101,33333,A-)
+csg(EE200,12345,C)
+csg(EE200,22222,B+)
+csg(EE200,33333,B)
+csg(PH100,33333,A)
+csg(PH100,67890,C+)
+cdh(CS101,M,9AM)
+cdh(CS101,W,9AM)
+cdh(CS101,F,9AM)
+cdh(EE200,T,10AM)
+cdh(EE200,Th,10AM)
+cdh(PH100,T,11AM)
+cdh(PH100,Th,11AM)
+cr(CS101,1170 TMCB)
+cr(EE200,B92 JFSB)
+cr(PH100,3106 JKB)
+
+Course Grades:
+CS101,Charlie Brown,A
+CS101,Lucy,B
+CS101,Snoopy,A-
+
+EE200,Charlie Brown,C
+EE200,Linus,B+
+EE200,Snoopy,B
+
+PH100,Snoopy,A
+PH100,Lucy,C+
+
+Student Schedules:
+Charlie Brown, 12345, Manager, 555-1234
+  CS101 MWF 9AM, 1170 TMCB
+  EE200 TTh 10AM, B92 JFSB
+
+Lucy, 67890, Right Field, 555-5678
+  CS101 MWF 9AM, 1170 TMCB
+  PH100 TTh 11AM, 3106 JKB
+
+Linus, 22222, 2nd Base, 555-9999
+  EE200 TTh 10AM, B92 JFSB
+
+Snoopy, 33333, Catcher, 555-1234
+  CS101 MWF 9AM, 1170 TMCB
+  EE200 TTh 10AM, B92 JFSB
+  PH100 TTh 11AM, 3106 JKB
+
